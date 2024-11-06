@@ -24,7 +24,16 @@ Calculation:
       - Trends: The analysis revealed certain patterns, such as higher attrition rates in specific departments or during particular times of the year.
       - Factors: Key factors contributing to attrition included job satisfaction, carreer advancement opportunities, and work-life balance.
 
+    5. Applications
 
-      
+      - HR Strategies: Insights from the attrition rate analysis can help in developing targeted retention strategies, such as improving employee engagement, providing career development programs and enhancing workplace culture.
+      - Business Impact: Understanding attrition rates aids in forecasting future staffing needs, reducing turnover costs, and maintainig organisational stability.
 
-https://github.com/MaryOdama/LITA_HR_DATA_PROJECT/commit/7e2aed5e19143d0b487c3103eeba07e623652312
+   6.  Conclusion
+      - Summary: The study provides a detailed overview of employee attrition rates and the underlying factors contributing to employee turnover.
+
+      - Recommendations: Future research could focus on more granular data analysis, integrating advanced predictive analytics to forsee potential attrition risks and take preemptive actions.
+
+### Table below.
+
+ttps://github.com/MaryOdama/LITA_HR_DATA_PROJECT/commit/7e2aed5e19143d0b487c3103eeba07e623652312
