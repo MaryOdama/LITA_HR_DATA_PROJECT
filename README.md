@@ -38,4 +38,4 @@ Calculation:
 
 ### Table below.
 
-ttps://github.com/MaryOdama/LITA_HR_DATA_PROJECT/commit/7e2aed5e19143d0b487c3103eeba07e623652312
+Https://github.com/MaryOdama/LITA_HR_DATA_PROJECT/commit/7e2aed5e19143d0b487c3103eeba07e623652312
