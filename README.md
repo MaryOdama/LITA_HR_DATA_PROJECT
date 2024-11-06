@@ -26,13 +26,15 @@ Calculation:
 
     5. Applications
 
-      - HR Strategies: Insights from the attrition rate analysis can help in developing targeted retention strategies, such as improving employee engagement, providing career development programs and enhancing workplace culture.
+      - HR Strategies: Insights from the attrition rate analysis can help in developing targeted retention strategies, such as improving employee engagement, providing career development 
+        programs and enhancing workplace culture.
       - Business Impact: Understanding attrition rates aids in forecasting future staffing needs, reducing turnover costs, and maintainig organisational stability.
 
    6.  Conclusion
       - Summary: The study provides a detailed overview of employee attrition rates and the underlying factors contributing to employee turnover.
 
-      - Recommendations: Future research could focus on more granular data analysis, integrating advanced predictive analytics to forsee potential attrition risks and take preemptive actions.
+      - Recommendations: Future research could focus on more granular data analysis, integrating advanced predictive analytics to forsee potential attrition risks and take preemptive 
+        actions.
 
 ### Table below.
 
