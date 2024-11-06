@@ -19,4 +19,12 @@ Calculation:
 
       - This formula provides a percentage that indicate the rate at which the employee are leaving the organisation.
 
+    4. Findings
+
+      - Trends: The analysis revealed certain patterns, such as higher attrition rates in specific departments or during particular times of the year.
+      - Factors: Key factors contributing to attrition included job satisfaction, carreer advancement opportunities, and work-life balance.
+
+
+      
+
 https://github.com/MaryOdama/LITA_HR_DATA_PROJECT/commit/7e2aed5e19143d0b487c3103eeba07e623652312
