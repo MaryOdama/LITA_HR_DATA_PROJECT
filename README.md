@@ -31,7 +31,8 @@ Calculation:
       - Business Impact: Understanding attrition rates aids in forecasting future staffing needs, reducing turnover costs, and maintainig organisational stability.
 
    6.  Conclusion
-      - Summary: The study provides a detailed overview of employee attrition rates and the underlying factors contributing to employee turnover.
+
+       - Summary: The study provides a detailed overview of employee attrition rates and the underlying factors contributing to employee turnover.
 
       - Recommendations: Future research could focus on more granular data analysis, integrating advanced predictive analytics to forsee potential attrition risks and take preemptive 
         actions.
